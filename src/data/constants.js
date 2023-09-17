@@ -293,10 +293,10 @@ export const projects = [
       "Developed this portfolio to demonstrate my skills and expertise, my educational and professional journey, accomplishments, and to provide tangible evidence of my qualifications and work.",
     image:
       "https://user-images.githubusercontent.com/98450154/268472307-d3926b92-06cf-47bf-bf35-243f13f85408.png",
-    tags: ["Reactjs", "JavaScript", "Router"],
+    tags: ["Reactjs", "JavaScript", "Router", "Emailjs"],
     category: "frontend",
     github: "https://github.com/Deepak413/Deepak-Dhaker-Portfolio",
-    webapp: "https://github.com/Deepak413",
+    webapp: "https://deepak413.github.io/Deepak-Dhaker-Portfolio/",
   },
   {
     id: 4,
