@@ -295,7 +295,7 @@ export const projects = [
       "https://user-images.githubusercontent.com/98450154/268472307-d3926b92-06cf-47bf-bf35-243f13f85408.png",
     tags: ["Reactjs", "JavaScript", "Router"],
     category: "frontend",
-    github: "https://github.com/Deepak413",
+    github: "https://github.com/Deepak413/Deepak-Dhaker-Portfolio",
     webapp: "https://github.com/Deepak413",
   },
   {
